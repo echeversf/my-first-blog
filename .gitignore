@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+myvenv
+mi_projecto
+mi_proyecto2
+Prueba
+db.sqlite3
+/static
+.DS_Store
